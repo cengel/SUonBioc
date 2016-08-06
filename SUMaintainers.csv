@@ -1,0 +1,8 @@
+"Package","Maintainer","Title","Email"
+"biomformat","Paul J. McMurdie","An interface package for the BIOM file format","Paul J. McMurdie <mcmurdie at stanford.edu> "
+"BiSeq","Katja Hebestreit","Processing and analyzing bisulfite sequencing data","Katja Hebestreit <katjah at stanford.edu> "
+"impute","Balasubramanian Narasimhan","impute: Imputation for microarray data","Balasubramanian Narasimhan <naras at stat.Stanford.EDU> "
+"phyloseq","Paul J. McMurdie","Handling and analysis of high-throughput microbiome census data","Paul J. McMurdie <mcmurdie at stanford.edu> "
+"RImmPort","Ravi Shankar","RImmPort: Enabling Ready-for-analysis Immunology Research Data","Ravi Shankar <rshankar at stanford.edu> "
+"spade","Zach Bjornson","SPADE -- An analysis and visualization tool for Flow Cytometry","Zach Bjornson <bjornson at stanford.edu> "
+"Sushi","Douglas H Phanstiel","Tools for visualizing genomics data","Douglas H Phanstiel <dphansti at stanford.edu> "
